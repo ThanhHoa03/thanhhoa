@@ -1,6 +1,6 @@
-/*var popUp = 'Web có chứa nhạc'
+var popUp = 'Web có chứa nhạc'
 alert(popUp)
-*/
+
 
 let launchDate = new Date("Feb 1, 2022 00:00:00").getTime();
 
